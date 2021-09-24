@@ -1,0 +1,32 @@
+Welcome Page:
+	In the welcome page you'll find Login options through either sign up or sign in,
+ Once we proveide necessary details, say name and password.The user data is stored in the
+ localStorage and you'll be redirected to CurrencyConversion page. And if we fail to 
+provide the necessary details and try to go to the login page we are show an error message.
+
+Currency Conversion Page:
+	In here, we can view through whose account we logged in by accessing the data from 
+local storage and we'll be able to define source and target currencies through a dropdown
+ menu. And find the appropriate currency value.When user chose to logout from the application
+he can do that by pressing logout button we provided in the navbar which redirects him to
+the login page and erasing the user data from local storage.
+
+
+
+Personally I,ve gone for this simplistic design with only two webpages is: 
+
+a)It is easy to operate as I've placed placeholders and error messages.
+b)It performs the required operations that needs to be fulfilled.
+c)It adds , accesses and removes the userdata from localstorage.
+
+
+
+
+
+Mockups that can be added:
+	
+a)Displaying realtime currency exchange rates in a graph.
+b)A calculator option for calculating the percentages and EMI options.
+	
+
+	  
